@@ -21,7 +21,7 @@ body {
 .spinner > div {
   width: 18px;
   height: 18px;
-  background-color: #000;
+  background-color: yellow;
 
   border-radius: 100%;
   display: inline-block;
