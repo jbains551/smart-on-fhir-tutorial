@@ -10,6 +10,7 @@ body {
 
 #holder {
   display: none;
+  color: yellow;
 }
 
 .spinner {
